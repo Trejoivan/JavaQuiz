@@ -131,9 +131,9 @@ const quizData = [
     correct: 'd',
   },
   {
-    question: '',
-    a: '',
-    b: '',
+    question: 'What does a CLOSER do in JS',
+    a: 'gives a function access to all variables of its parent function, even after the parent function has returned. the functions keeps a reference to its outer scope, which preserves the scope chain throughout time.',
+    b: 'gives a variable access to all Classes and parent function, even after the parent function has returned. the functions keeps a reference to its outer scope, which preserves the scope chain throughout time.',
     c: '',
     d: '',
     correct: 'c',
